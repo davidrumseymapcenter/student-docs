@@ -47,7 +47,7 @@ var store = [{
         "title": "DRMC Overview",
         "subtitle": "What do we do here?",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness  ",
+            "Site is currently being developed – please excuse the incompleteness As a Rumsey Center student worker, your main priority is to staff the reference desk, greet &amp; help visitors sign...",
         "categories": null,
         "date": null,
         "tags": null,
@@ -57,7 +57,7 @@ var store = [{
         "title": "The David Rumsey Map Center",
         "subtitle": "Information about where you work",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness  ",
+            "Site is currently being developed – please excuse the incompleteness History of the Center The Center was established in 2016 when David Rumsey donated his map collection to Stanford University....",
         "categories": null,
         "date": null,
         "tags": null,
