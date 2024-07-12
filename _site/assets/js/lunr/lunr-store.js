@@ -67,7 +67,7 @@ var store = [{
         "title": "Emergencies",
         "subtitle": "What to do in an emergency",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Earthquakes and Fire Alarms [What to do] Panic Button We have a panic button for you to use in case...",
+            "Site is currently being developed – please excuse the incompleteness Earthquakes During an earthquake, if you are indoors: Immediately “duck, cover, and hold” under a desk, table or chair, between...",
         "categories": null,
         "date": null,
         "tags": null,
