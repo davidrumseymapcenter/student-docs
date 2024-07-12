@@ -7,7 +7,7 @@ var store = [{
         "title": "Access to the DRMC",
         "subtitle": "General and Elevator Access",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness General Access to the David Rumsey Map Center Some stuff about open hours, doorbell, Green Library hours and how they...",
+            "Site is currently being developed – please excuse the incompleteness General Access to the David Rumsey Map Center The David Rumsey Map Center is open for public drop-in Wednesdays 1-5pm,...",
         "categories": null,
         "date": null,
         "tags": null,
