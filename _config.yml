@@ -103,6 +103,8 @@ navbar:
         url   : handbook/onboarding-checklist # meet everyone, get a tour, review the handbook, etc.
       - title : DRMC Overview
         url   : handbook/drmc-overview
+      - title : Tours
+        url   : handbook/tours
       - title : Phones
         url   : handbook/phones
       - title : Sick Leave
