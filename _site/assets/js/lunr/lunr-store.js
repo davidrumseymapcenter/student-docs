@@ -157,7 +157,7 @@ var store = [{
         "title": "Tours",
         "subtitle": "How to give tours to visitors at the Rumsey Center",
         "excerpt":
-            "Giving a Tour of the Rumsey Map Center Along with greening &amp; orienting visitors when they arrive, you should be prepared to give brief tours/walkarounds of the Center and its...",
+            "Giving a Tour of the Rumsey Map Center On Fridays, the David Rumsey Map Center offers in-depth, guided tours from 2-3pm. These tours are more involved than the quick walkaround/orientation...",
         "categories": null,
         "date": null,
         "tags": null,

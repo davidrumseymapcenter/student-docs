@@ -14,7 +14,11 @@ show_sidetoc: true
 ---
 
 # Giving a Tour of the Rumsey Map Center
-Along with greening & orienting visitors when they arrive, you should be prepared to give brief tours/walkarounds of the Center and its resources. Generally, these short tours are condensed versions of our weekly 2pm Friday tours, though if you feel up for going more in-depth, go for it! Introduce the center, walk visitors through the 3x3 and 4x4 screens, the Ideum board, and point out the current exhibition and Bellerby Globe. Note that none of these resources are off-limits to visitors– we encourage them to use the screens and spin the globe during their visit.
+
+On Fridays, the David Rumsey Map Center offers in-depth, guided tours from 2-3pm. These tours are more involved than the quick walkaround/orientation you give to visitors when they drop in, and often last around 45 minutes total. Below are topics to cover if you are asked to lead one of these guided tours.
+
+## Introducing the Center
+See [here](/drmc) for an overview of the Rumsey Center, its mission, and its resources.
 
 ## 3x3 Screen Overview
 The 3x3 screen displays [www.davidrumsey.com](www.davidrumsey.com). This is David Rumsey’s personal website where he hosts high-resolution scans of his 130,000+ maps. This website is not exclusive to the Rumsey Center– you can access this website on any device with a web browser. The site allows you to browse and download these images, and the homepage displays a rotating curated selection of maps.
