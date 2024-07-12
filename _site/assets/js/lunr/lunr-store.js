@@ -37,7 +37,7 @@ var store = [{
         "title": "Daily Checklist",
         "subtitle": "What do do each day",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness  ",
+            "Site is currently being developed – please excuse the incompleteness Opening the Center Ring the doorbell when you arrive, one of us will let you in. Prop the door open...",
         "categories": null,
         "date": null,
         "tags": null,
