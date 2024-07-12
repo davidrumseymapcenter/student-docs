@@ -27,7 +27,7 @@ var store = [{
         "title": "Breaks",
         "subtitle": "When can you take them?",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness   ",
+            "Site is currently being developed – please excuse the incompleteness If you work more than three and a half hours in a day, you are entitiled to a paid 15-minute...",
         "categories": null,
         "date": null,
         "tags": null,
