@@ -15,4 +15,4 @@ show_sidetoc: true
 {: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness
 
-(link to Google Drive)
+If you need to contact Rumsey Center staff during or outside of your shift, you can find their contact information [here](https://docs.google.com/spreadsheets/d/1ZDMVhTT-RPoasA0shIQwPFF9iCG1058KBWnVhlFHv8k/edit?gid=0#gid=0).

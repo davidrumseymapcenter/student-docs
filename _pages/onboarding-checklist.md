@@ -26,3 +26,4 @@ As a Rumsey Center student worker, your main priority is to staff the reference 
 - General Conduct
 - Filling out your timecard on Axess
 - Safety
+- Share emergency contacts

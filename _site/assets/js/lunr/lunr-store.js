@@ -77,7 +77,7 @@ var store = [{
         "title": "Emergency Contacts",
         "subtitle": "Who to contact for emergencies",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness   (link to Google Drive)  ",
+            "Site is currently being developed – please excuse the incompleteness If you need to contact Rumsey Center staff during or outside of your shift, you can find their contact information...",
         "categories": null,
         "date": null,
         "tags": null,
