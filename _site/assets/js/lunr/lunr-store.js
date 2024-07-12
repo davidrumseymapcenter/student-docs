@@ -87,7 +87,7 @@ var store = [{
         "title": "Finding Maps",
         "subtitle": "How to find maps and resources for people when they ask",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness People will have questions about our collection and how to find and view maps Thinking Spatially [describe and link to...",
+            "Site is currently being developed – please excuse the incompleteness People will have questions about our collection and how to find and view maps. The easiest way to point visitors...",
         "categories": null,
         "date": null,
         "tags": null,
