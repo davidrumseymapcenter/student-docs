@@ -29,5 +29,5 @@ As a Rumsey Center student worker, your main priority is to staff the reference 
 - [Safety](/emergencies)
 - [Share emergency contacts](/handbook/emergency-contacts)
 - [Breaks](/handbook/breaks)
-- [Filling out your timecard on Axess](/handbook/sick-leave)
+- [Filling out your timecard on Axess](/handbook/timecards)
 - [Projects](/projects)

@@ -144,14 +144,14 @@ var store = [{
         "url": "http://localhost:4000/projects",
         "img": null
       },{
-        "title": "Sick Leave",
-        "subtitle": "How to call out sick.",
+        "title": "Timecards",
+        "subtitle": "How to fill out your timecard.",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness  ",
+            "Site is currently being developed – please excuse the incompleteness Pay Periods and Pay Dates There are two pay periods per month: one lasting from the first of the month...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/sick-leave",
+        "url": "http://localhost:4000/handbook/timecards",
         "img": null
       },{
         "title": "Tours",

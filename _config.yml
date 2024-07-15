@@ -107,8 +107,8 @@ navbar:
         url   : handbook/tours
       - title : Phones
         url   : handbook/phones
-      - title : Sick Leave
-        url   : handbook/sick-leave
+      - title : Timecards
+        url   : handbook/timecards
       - title : Breaks
         url   : handbook/breaks
       - title : Food and Drink
