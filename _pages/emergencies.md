@@ -42,6 +42,10 @@ When you hear the fire alarm:
 - Go directly to the designated Emergency Assembly Point (EAP) for the building you are in. *Note:* The EAP for the Rumsey Center is the fountain in front of the Bing Wing entrance to Green Library.
 - Check in and provide information on noted hazards or personnel remaining in the building to your Response Team member.
 
+## Emergency Kit
+
+There is a red, lunchbox-looking emergency kit stored below the reference desk. It contains emergency supplies ranging from first aid materials to granola bars and water.
+
 ## Panic Button
 
 We have a panic button for you to use in case of an emergency. Information about using it is shared with you during your onboarding. If you have questions, please feel free to ask at anytime. 
