@@ -137,7 +137,7 @@ var store = [{
         "title": "Student Projects",
         "subtitle": "Accessing and managing projects",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness   GitHub and Google Drive   We manage our student projects either in Google Drive or GitHub.   [links to each]  ",
+            "Site is currently being developed – please excuse the incompleteness GitHub and Google Drive We manage our student projects either in GitHub or Google Drive. Sanborn Atlas Spatial Indexing Repository...",
         "categories": null,
         "date": null,
         "tags": null,

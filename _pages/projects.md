@@ -16,6 +16,8 @@ Site is currently being developed – please excuse the incompleteness
 
 ## GitHub and Google Drive
 
-We manage our student projects either in Google Drive or GitHub.
+We manage our student projects either in GitHub or Google Drive.
 
-[links to each]
+[Sanborn Atlas Spatial Indexing Repository](https://github.com/davidrumseymapcenter/spatial-indexes)
+
+[Student Project Drive Folder (Currently Empty)](https://drive.google.com/drive/folders/1dG9BIDBRYZPwNjRwJqUyXN9UlxjYScAu?usp=share_link)
