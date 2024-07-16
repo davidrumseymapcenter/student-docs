@@ -20,7 +20,6 @@ The David Rumsey Map Center is open for public drop-in Wednesdays 1-5pm, Thursda
 
 Material viewing appointments can be scheduled outside of our open hours. Patrons can [request materials through Stanford SearchWorks](https://searchworks.stanford.edu) and, when prompted, set up an appointment through Aeon.
 
-
 The main stairwell to the Rumsey Center is located on the south side of the Rotunda. The Rumsey Center is also accessable via the elevator, as outlined below.
 
 ## Elevator Access
@@ -29,6 +28,7 @@ The David Rumsey Map Center can be accessed via elevator by taking the Bing Wing
 
 Upon ringing the the doorbell, a member of the Rumsey Center staff will let the visitor in and retreive the elevator card from them. If you hear the doorbell and no one comes to let the visitor in, inform a member of the Rumsey Staff that someone is at the elevator door.
 
-**Elevator Duty**\
+**Elevator Duty**
+
 From time to time, you may be scheduled to help with events during or outside of open hours. Most of the time this will involve you staffing the elevator entrance. Your supervisor will set you up with a table and chair just inside the elevator entrance to the center, and will disarm the alarm and prop the door open. While you are on elevator duty, you are responsible for directing any visitors accessing the center via the elevator to the front reference desk where they will be able to store their bags, sign in, and find a seat.
 

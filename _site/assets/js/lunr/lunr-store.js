@@ -97,7 +97,7 @@ var store = [{
         "title": "Food and Drink",
         "subtitle": "Options for eating and drinking",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Food and drinks, including closed containers of water are not allowed in the Rumsey Center. If you see a visitor...",
+            "Site is currently being developed – please excuse the incompleteness Food and Drink Policy Food and drinks, including closed containers of water are not allowed in the Rumsey Center. If...",
         "categories": null,
         "date": null,
         "tags": null,
@@ -289,7 +289,7 @@ var store = [{
         "excerpt":
             "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
         "categories": ["tutorial"],
-        "date": "2024-07-15",
+        "date": "2024-07-16",
         "tags": ["starter","syntax","markdown"],
         "url": "http://localhost:4000/cheatsheets/01-markdown-cheat-sheet",
         "img": null
@@ -299,7 +299,7 @@ var store = [{
         "excerpt":
             "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
         "categories": ["tutorial"],
-        "date": "2024-07-15",
+        "date": "2024-07-16",
         "tags": ["starter","syntax","kramdown"],
         "url": "http://localhost:4000/cheatsheets/02-kramdown-cheat-sheet",
         "img": null
