@@ -12,8 +12,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 If you work more than three and a half hours in a day, you are entitiled to a paid 15-minute break. Per the [Admin Guide 2.1.5](https://adminguide.stanford.edu/chapters/human-resources/staff-employment-policies/compensation-staff-employees): 
 

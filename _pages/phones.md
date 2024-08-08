@@ -12,8 +12,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 # Answering the Phone at the Rumsey Center
 Answer with, “Hi, thank you for calling the David Rumsey Map Center, this is [name]. How can I help you?”

@@ -11,8 +11,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 ## History of the Center
 - The Center was established in 2016 when David Rumsey donated his map collection to Stanford University.

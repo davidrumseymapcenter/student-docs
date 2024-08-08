@@ -12,8 +12,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 As a Rumsey Center student worker, your main priority is to staff the reference desk, greet & help visitors sign in, and give brief tours to introduce visitors to the center. When not actively working with visitors, you should be working on student projects assigned by your supervisor.
 

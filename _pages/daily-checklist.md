@@ -12,8 +12,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 # Opening the Center
 - Ring the doorbell when you arrive, one of us will let you in.

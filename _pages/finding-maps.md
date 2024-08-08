@@ -11,8 +11,8 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness
+<!--{: .alert .alert-dismissible .alert-warning}
+Site is currently being developed – please excuse the incompleteness-->
 
 People will have questions about our collection and how to find and view maps. The easiest way to point visitors in the right direction is to show them how to search [davidrumsey.com](https://www.davidrumsey.com) with the following methods:
 - Metadata search
