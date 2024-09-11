@@ -18,14 +18,12 @@ Site is currently being developed – please excuse the incompleteness-->
 As a Rumsey Center student worker, your main priority is to staff the reference desk, greet & help visitors sign in, and give brief tours to introduce visitors to the center. When not actively working with visitors, you should be working on student projects assigned by your supervisor.
 
 
-**When a patron arrives, do *three* things:** 
+**When a patron arrives, do *two* things:** 
 
-1. Have the patron sign the policy acknowledgment form at the front desk tablet. Every adult must register. An easy way to get visitors’ attention is to say, “Hi, are you here to visit the center?”
-
-2. Kindly ask that patrons with bags or coats/jackets place their items in the lockers behind them, giving them a key from the front desk.
+1. Kindly ask that patrons with bags or coats/jackets place their items in the lockers behind them, giving them a key from the front desk.
 If a patron takes a key, please ask for their ID. You can give them their ID back once they return their locker key
 
-3. Briefly introduce the Center to give the patrons an overview of the Center’s history and/or to provide them a little bit of context about the current exhibition.
+2. Briefly introduce the Center to give the patrons an overview of the Center’s history and/or to provide them a little bit of context about the current exhibition.
 - You can make your intro spiel your own, but feel free to reference the information [here](/drmc) to come up with an intro that interests visitors.
 - You can include one tidbit from each of the sections linked above, or you can simply choose the stories/information that excite you the most. 
 - If you're feeling up to going more in-depth, information on how to give a formal tour can be found [here](/handbook/tours).
