@@ -20,7 +20,7 @@ The David Rumsey Map Center is open for public drop-in Wednesdays 1-5pm, Thursda
 
 Material viewing appointments can be scheduled outside of our open hours. Patrons can [request materials through Stanford SearchWorks](https://searchworks.stanford.edu) and, when prompted, set up an appointment through Aeon.
 
-The main stairwell to the Rumsey Center is located on the south side of the Rotunda. The Rumsey Center is also accessable via the elevator, as outlined below.
+The main stairwell to the Rumsey Center is located on the south side of the Rotunda. The Rumsey Center is also accessible via the elevator, as outlined below.
 
 ## Elevator Access
 
