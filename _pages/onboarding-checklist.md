@@ -15,6 +15,7 @@ show_sidetoc: true
 <!--{: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness-->
 
+This page acts as a training checklist for your supervisor to cover your responsibilities and how the Rumsey Center operates during your first shift.
 
 As a Rumsey Center student worker, your main priority is to staff the reference desk, greet & help visitors sign in, and give brief tours to introduce visitors to the center. When not actively working with visitors, you should be working on student projects assigned by your supervisor.
 
