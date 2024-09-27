@@ -17,7 +17,7 @@ Site is currently being developed – please excuse the incompleteness-->
 
 # Answering the Phone at the Rumsey Center
 Answer with, “Hi, thank you for calling the David Rumsey Map Center, this is [name]. How can I help you?”
-While on the phone, complete one of the “Hi, thank you for calling the DRMC…” forms
+While on the phone, complete one of the “Hi, thank you for calling the DRMC…” forms in the Student Staff binder on the Reference Desk.
 
 **Common questions:**
 
