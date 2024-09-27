@@ -27,7 +27,7 @@ The [Thinking Spatially Toolkit](https://davidrumseymapcenter.github.io/thinking
 ## Viewing Material In Person
 Along with digital resources, researchers and members of the public are encouraged to leveraged the 25,000+ physical materials in Stanford's David Rumsey Map Collection.
 
-For someone to view Rumsey Center materials in-person, they first need to locate the deisred material on [Stanford SearchWorks](https://searchworks.stanford.edu). Then they will need to click the blue "Request via Aeon" button on the page located by the call number. This will prompt them to sign in (or create an account) and schedule an appointment to view their material. Individual appointments like this have a limit of 5 materials per visit, and can be scheduled outside of our open hours.
+For someone to view Rumsey Center materials in-person, they first need to locate the desired material on [Stanford SearchWorks](https://searchworks.stanford.edu). Then they will need to click the blue "Request via Aeon" button on the page located by the call number. This will prompt them to sign in (or create an account) and schedule an appointment to view their material. Individual appointments like this have a limit of 5 materials per visit, and can be scheduled outside of our open hours.
 
 ## StoryMap
 For a more in-depth guide on requesting materials via SearchWorks, searching [davidrumsey.com](https://www.davidrumsey.com) with advanced search and MapRankSearch, and more, see [this StoryMap](https://storymaps.arcgis.com/stories/716f4ef04a7244f98bab8c32df0525d6).
