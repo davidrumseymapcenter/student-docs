@@ -14,6 +14,8 @@ show_sidetoc: true
 <!--{: .alert .alert-dismissible .alert-warning}
 Site is currently being developed – please excuse the incompleteness-->
 
+[Georeferencing Historical Maps Workshop](https://ubc-library-rc.github.io/gis-georeferencing/content/hands-on.html)
+
 ## GitHub and Google Drive
 
 We manage our student projects either in GitHub or Google Drive.
