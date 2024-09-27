@@ -24,9 +24,9 @@ As a Rumsey Center student worker, your main priority is to staff the reference 
 If a patron takes a key, please ask for their ID. You can give them their ID back once they return their locker key
 
 2. Briefly introduce the Center to give the patrons an overview of the Center’s history and/or to provide them a little bit of context about the current exhibition.
-- You can make your intro spiel your own, but feel free to reference the information [here](/drmc) to come up with an intro that interests visitors.
+- You can make your intro spiel your own, but feel free to reference the information [here](/student-docs/drmc) to come up with an intro that interests visitors.
 - You can include one tidbit from each of the sections linked above, or you can simply choose the stories/information that excite you the most. 
-- If you're feeling up to going more in-depth, information on how to give a formal tour can be found [here](/handbook/tours).
+- If you're feeling up to going more in-depth, information on how to give a formal tour can be found [here](/student-docs/handbook/tours).
 
 **Restroom Key**\
 We have a restroom that visitors can use, located across the room from the reference desk. The key to the restroom is located by the iPad on the reference desk. Even with the key, the door handle does not turn. To open the restroom door, put the key in the lock, turn it, and push.

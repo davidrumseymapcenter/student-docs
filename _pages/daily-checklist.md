@@ -2,7 +2,7 @@
 layout: default
 title: Daily Checklist
 subtitle: What do do each day
-permalink: handbook/daily-checklist
+permalink: /handbook/daily-checklist
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:

@@ -18,7 +18,7 @@ show_sidetoc: true
 On Fridays, the David Rumsey Map Center offers in-depth, guided tours from 2-3pm. These tours are more involved than the quick walkaround/orientation you give to visitors when they drop in, and often last around 45 minutes total. Below are topics to cover if you are asked to lead one of these guided tours.
 
 ## Introducing the Center
-See [here](/drmc) for an overview of the Rumsey Center, its mission, and its resources.
+See [here](/student-docs/drmc) for an overview of the Rumsey Center, its mission, and its resources.
 
 ## 3x3 Screen Overview
 The 3x3 screen displays [www.davidrumsey.com](www.davidrumsey.com). This is David Rumsey’s personal website where he hosts high-resolution scans of his 130,000+ maps. This website is not exclusive to the Rumsey Center– you can access this website on any device with a web browser. The site allows you to browse and download these images, and the homepage displays a rotating curated selection of maps.

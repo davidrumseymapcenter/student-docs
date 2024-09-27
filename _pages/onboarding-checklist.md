@@ -18,16 +18,16 @@ Site is currently being developed – please excuse the incompleteness-->
 
 As a Rumsey Center student worker, your main priority is to staff the reference desk, greet & help visitors sign in, and give brief tours to introduce visitors to the center. When not actively working with visitors, you should be working on student projects assigned by your supervisor.
 
-- [Opening and Closing Procedures](/handbook/daily-checklist)
-- [Interacting with Patrons](/handbook/drmc-overview)
+- [Opening and Closing Procedures](/student-docs/handbook/daily-checklist)
+- [Interacting with Patrons](/student-docs/handbook/drmc-overview)
 - Giving a Tour
-  - [Center Introduction](/handbook/drmc-overview)
-  - [In-depth Tour](/handbook/tours)
-- [Ins and Outs of the Center Space](/handbook/drmc-overview)
-- [Answering the Phone](/handbook/phones)
-- [General Conduct](/handbook/food-and-drink)
-- [Safety](/emergencies)
-- [Share emergency contacts](/handbook/emergency-contacts)
-- [Breaks](/handbook/breaks)
-- [Filling out your timecard on Axess](/handbook/timecards)
-- [Projects](/projects)
+  - [Center Introduction](/student-docs/handbook/drmc-overview)
+  - [In-depth Tour](/student-docs/handbook/tours)
+- [Ins and Outs of the Center Space](/student-docs/handbook/drmc-overview)
+- [Answering the Phone](/student-docs/handbook/phones)
+- [General Conduct](/student-docs/handbook/food-and-drink)
+- [Safety](/student-docs/emergencies)
+- [Share emergency contacts](/student-docs/handbook/emergency-contacts)
+- [Breaks](/student-docs/handbook/breaks)
+- [Filling out your timecard on Axess](/student-docs/handbook/timecards)
+- [Projects](/student-docs/projects)
