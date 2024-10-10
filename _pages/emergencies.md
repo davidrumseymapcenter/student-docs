@@ -1,18 +1,17 @@
 ---
 layout: default
-title: Emergencies
-subtitle: What to do in an emergency
-permalink: /emergencies
+title: Emergencies & emergency contacts
+subtitle: What to do in an emergency and staff contact info
+permalink: job/emergencies
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
-  - label: Home
+  - label: Job
     url: /
-show_toc: true
-show_sidetoc: true
+  - label: emergencies
+show_toc: false
+show_sidetoc: false
 ---
-<!--{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness-->
 
 ## Earthquakes
 
@@ -49,3 +48,7 @@ There is a red, lunchbox-looking emergency kit stored below the reference desk. 
 ## Panic Button
 
 We have a panic button for you to use in case of an emergency. Information about using it is shared with you during your onboarding. If you have questions, please feel free to ask at anytime. 
+
+## Emergency Contacts
+
+If you need to contact Rumsey Center staff during or outside of your shift, you can find their contact information [here](https://docs.google.com/spreadsheets/d/1ZDMVhTT-RPoasA0shIQwPFF9iCG1058KBWnVhlFHv8k/edit?gid=0#gid=0).

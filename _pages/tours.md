@@ -2,13 +2,13 @@
 layout: default
 title: Tours
 subtitle: How to give tours to visitors at the Rumsey Center
-permalink: handbook/tours
+permalink: responsibilities/tours
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /
-  - label: Handbook
+  - label: Responsibilities
 show_toc: true
 show_sidetoc: true
 ---

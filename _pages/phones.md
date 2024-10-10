@@ -1,19 +1,17 @@
 ---
 layout: default
-title: Phones
-subtitle: How to answer them.
-permalink: handbook/phones
+title: Phones 
+subtitle: How to answer them
+permalink: responsibilities/phones
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /
-  - label: Handbook
-show_toc: true
-show_sidetoc: true
+  - label: Responsibilities
+show_toc: false
+show_sidetoc: false
 ---
-<!--{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness-->
 
 # Answering the Phone at the Rumsey Center
 Answer with, “Hi, thank you for calling the David Rumsey Map Center, this is [name]. How can I help you?”
@@ -27,8 +25,11 @@ While on the phone, complete one of the “Hi, thank you for calling the DRMC…
 
 **Q:** I would like help finding a map for a project I’m working on.\
 **A:** The best way to get one on one help with leveraging our map collection for your project is to schedule a 1:1 meeting with our Rare Maps Librarian, Kristina Larsen. Would you be interested in that?\
-[If yes] What’s your email address? I will send you a link where you can go online to to book a time with her, then ask Niles to send the email [https://appointments.library.stanford.edu/appointments/kristina](https://appointments.library.stanford.edu/appointments/kristina)
-If you want to drop into the Center to get help with finding a map to your project, [reference to Answer about open hours] 
+[If yes] What’s your email address? I will send you a link where you can go online to to book a time with her.
+- Ask Niles to send the email: [https://appointments.library.stanford.edu/appointments/kristina](https://appointments.library.stanford.edu/appointments/kristina)
+
+
+[If no] If you want to drop into the Center to get help with finding a map to your project, [reference to Answer about open hours] 
 
 **Q:** I would like to donate a map. Would you like it?\
 **A:** Thank you for offering to donate your map(s). This is at the discretion of the Curator of the David Rumsey Map Center. If you could describe the map(s) you’d like to donate and provide me with your contact information, I will pass along your message to our Curator and get back to you with a response. 

@@ -1,8 +1,8 @@
 ---
 layout: default
-title: DRMC Overview
-subtitle: What do we do here?
-permalink: handbook/drmc-overview
+title: Staffing the reference desk
+subtitle: Helpful information when working with visitors
+permalink: responsibilities/reference-desk
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
@@ -12,8 +12,6 @@ breadcrumb_list:
 show_toc: true
 show_sidetoc: true
 ---
-<!--{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness-->
 
 As a Rumsey Center student worker, your main priority is to staff the reference desk, greet & help visitors sign in, and give brief tours to introduce visitors to the center. When not actively working with visitors, you should be working on student projects assigned by your supervisor.
 
@@ -21,14 +19,14 @@ As a Rumsey Center student worker, your main priority is to staff the reference 
 **When a patron arrives, do *three* things:** 
 
 1. Kindly ask that patrons with bags or coats/jackets place their items in the lockers behind them, giving them a key from the front desk.
-If a patron takes a key, please ask for their ID. You can give them their ID back once they return their locker key
+If a patron takes a key, please ask for their ID. You can give them their ID back once they return their locker key.
 
 2. Mention that we have a restroom and water fountains available. Point them out and let visitors know that if they would like to use the restroom, the key is located at the reference desk by the iPad.
 
 3. Briefly introduce the Center to give the patrons an overview of the Center’s history and/or to provide them a little bit of context about the current exhibition.
 - You can make your intro spiel your own, but feel free to reference the information [here](/student-docs/drmc) to come up with an intro that interests visitors.
 - You can include one tidbit from each of the sections linked above, or you can simply choose the stories/information that excite you the most. 
-- If you're feeling up to going more in-depth, information on how to give a formal tour can be found [here](/student-docs/handbook/tours).
+- If you're feeling up to going more in-depth, information on how to give a formal tour can be found [here](/student-docs/responsibilities/tours).
 
 **Restroom Key**\
 We have a restroom that visitors can use, located across the room from the reference desk. The key to the restroom is located by the iPad on the reference desk. Even with the key, the door handle does not turn. To open the restroom door, put the key in the lock, turn it, and push.

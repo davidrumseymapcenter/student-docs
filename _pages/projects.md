@@ -1,18 +1,19 @@
 ---
 layout: default
-title: Student Projects
-subtitle: Accessing and managing projects
-permalink: /projects
+title:  Projects
+subtitle: Accessing and managing student projects
+permalink: responsibilities/projects
 include_on_search: true
 show_breadcrumb: true
 breadcrumb_list:
   - label: Home
     url: /
-show_toc: true
-show_sidetoc: true
+  - label: Projects
+show_toc: false
+show_sidetoc: false
 ---
-<!--{: .alert .alert-dismissible .alert-warning}
-Site is currently being developed – please excuse the incompleteness-->
+{: .alert .alert-dismissible .alert-warning}
+Page is currently being developed – please excuse the incompleteness
 
 [Georeferencing Historical Maps Workshop](https://ubc-library-rc.github.io/gis-georeferencing/content/hands-on.html)
 

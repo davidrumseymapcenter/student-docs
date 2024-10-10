@@ -97,38 +97,49 @@ navbar:
     url     :  # default["url/baseurl"]
     img     :  # An small image, try 30x30px
   nav:
-  - title   : Handbook
+  - title   : Basics of your job
     child   :
-      - title : Onboarding Checklist 
-        url   : handbook/onboarding-checklist # meet everyone, get a tour, review the handbook, etc.
-      - title : DRMC Overview
-        url   : handbook/drmc-overview
-      - title : Tours
-        url   : handbook/tours
-      - title : Phones
-        url   : handbook/phones
+      - title : Job description 
+        url   : job/job-description
+      - title : Conduct on the job
+        url   : job/conduct
       - title : Timecards
-        url   : handbook/timecards
+        url   : job/timecards
       - title : Breaks
-        url   : handbook/breaks
-      - title : Food and Drink
-        url   : handbook/food-and-drink
-      - title : Emergency Contacts
-        url   : handbook/emergency-contacts
-      - title : Daily Checklist
-        url   : handbook/daily-checklist
-      - title : Job Descriptions
-        url   : handbook/job-descriptions
-  - title   : Emergencies
-    url     : /emergencies # fire, earthquake, medical, panic button, etc. Maybe this goes to a Google doc
+        url   : job/breaks
+      - title : Sick time
+        url   : job/sick-time
+      - title : Emergencies & emergency contacts
+        url   : job/emergencies
+  - title   : Your responsibilities
+    child   :
+      - title : Opening the Center
+        url   : responsibilities/opening
+      - title : Closing the Center
+        url   : responsibilities/closing 
+      - title : Staffing the reference desk
+        url   : responsibilities/reference-desk 
+      - title : Phones
+        url   : responsibilities/phones
+      - title : Tours
+        url   : responsibilities/tours
+      - title : Events
+        url   : responsibilities/events
+      - title : Projects
+        url   : responsibilities/projects 
   - title   : The DRMC
-    url     : /drmc
-  - title   : Access to the DRMC  
-    url     : /access
+    child   :
+      - title : History
+        url   : drmc/history
+      - title : Accessing the Center
+        url   : drmc/access
+      - title : Past exhibitions and events
+        url   : drmc/exhibitions-events
   - title   : Finding Maps
     url     : /finding-maps
-  - title   : Projects
-    url     : /projects
+# - title   : Onboarding Checklist
+#   url     : /onboarding-checklist
+
 
 #  - title   : # Label submenu
 #    child:		

@@ -4,14 +4,14 @@ MIT License
 From minimal-mistakes: https://github.com/mmistakes/minimal-mistakes/
 */
 var store = [{
-        "title": "Access to the DRMC",
-        "subtitle": "General and Elevator Access",
+        "title": "Access to the Center",
+        "subtitle": "General and elevator Access",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness General Access to the David Rumsey Map Center The David Rumsey Map Center is open for public drop-in Wednesdays 1-5pm,...",
+            "General Access to the David Rumsey Map Center The David Rumsey Map Center is open for public drop-in Wednesdays 1-5pm, Thursdays 1-5pm, and Fridays 9:30am-5pm. However, these hours occasionally change...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/access",
+        "url": "http://localhost:4000/drmc/access",
         "img": null
       },{
         "title": "Archive",
@@ -27,131 +27,161 @@ var store = [{
         "title": "Breaks",
         "subtitle": "When can you take them?",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness If you work more than three and a half hours in a day, you are entitiled to a paid 15-minute...",
+            "If you work more than three and a half hours in a day, you are entitiled to a paid 15-minute break. Per the Admin Guide 2.1.5: “The university provides non-exempt...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/breaks",
+        "url": "http://localhost:4000/job/breaks",
         "img": null
       },{
-        "title": "Daily Checklist",
-        "subtitle": "What do do each day",
+        "title": "Closing the Center",
+        "subtitle": "What to do for closing shifts",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Opening the Center Ring the doorbell when you arrive, one of us will let you in. Prop the door open...",
+            "Closing the Center Switch the lights from “case on” to “case off.” Close down the 4x4 Minimize or close out of Google Earth (if prompted to save temporary places you...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/daily-checklist",
+        "url": "http://localhost:4000/responsibilities/closing",
         "img": null
       },{
-        "title": "DRMC Overview",
-        "subtitle": "What do we do here?",
+        "title": "Conduct on the job",
+        "subtitle": "Expectations and guidelines during your shift",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness As a Rumsey Center student worker, your main priority is to staff the reference desk, greet &amp; help visitors sign...",
+            "Food and Drink Policy Food and drinks, including closed containers of water are not allowed in the Rumsey Center. If you see a visitor with food or drinks in the...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/drmc-overview",
+        "url": "http://localhost:4000/job/conduct",
         "img": null
       },{
-        "title": "The David Rumsey Map Center",
-        "subtitle": "Information about where you work",
+        "title": "Emergencies & emergency contacts",
+        "subtitle": "What to do in an emergency and staff contact info",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness History of the Center The Center was established in 2016 when David Rumsey donated his map collection to Stanford University....",
+            "Earthquakes During an earthquake, if you are indoors: Immediately “duck, cover, and hold” under a desk, table or chair, between seating rows in classrooms, against a corridor wall. If you’re...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/drmc",
+        "url": "http://localhost:4000/job/emergencies",
         "img": null
       },{
-        "title": "Emergencies",
-        "subtitle": "What to do in an emergency",
+        "title": "Events",
+        "subtitle": "What you'll be asked to help with during events",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Earthquakes During an earthquake, if you are indoors: Immediately “duck, cover, and hold” under a desk, table or chair, between...",
+            "Event Setup/Teardown During your shift, your supervisor may ask for your help setting up for or tearing down after an event. This mainly involves taking out, rearranging, or putting away...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/emergencies",
+        "url": "http://localhost:4000/responsibilities/events",
         "img": null
       },{
-        "title": "Emergency Contacts",
-        "subtitle": "Who to contact for emergencies",
+        "title": "Past Exhibitions & Events",
+        "subtitle": "Links to event recordings and digital exhibits",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness If you need to contact Rumsey Center staff during or outside of your shift, you can find their contact information...",
+            "Spotlight Exhibits A variety of digital exhibitions, including those centered on maps from the Rumsey Collection, can be found on Stanford’s Spotlight service. The Maps &amp; Geography section features digital...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/emergency-contacts",
+        "url": "http://localhost:4000/drmc/exhibitions-events",
         "img": null
       },{
         "title": "Finding Maps",
         "subtitle": "How to find maps and resources for people when they ask",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness People will have questions about our collection and how to find and view maps. The easiest way to point visitors...",
+            "People will have questions about our collection and how to find and view maps. The easiest way to point visitors in the right direction is to show them how to...",
         "categories": null,
         "date": null,
         "tags": null,
         "url": "http://localhost:4000/finding-maps",
         "img": null
       },{
-        "title": "Food and Drink",
-        "subtitle": "Options for eating and drinking",
+        "title": "History of the Center",
+        "subtitle": "Information about where you work",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Food and Drink Policy Food and drinks, including closed containers of water are not allowed in the Rumsey Center. If...",
+            "History of the Center The Center was established in 2016 when David Rumsey donated his map collection to Stanford University. David Rumsey is alive and well. He lives in San...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/food-and-drink",
+        "url": "http://localhost:4000/drmc/history",
         "img": null
       },{
-        "title": "Job Descriptions",
+        "title": "Job Description",
         "subtitle": "Information about your job",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Reference Assistant We are seeking a Reference Assistant for the David Rumsey Map Center, Stanford Libraries. The Center houses historic...",
+            "Please note: this job advertisement is not open and is listed here as an informational reference for current David Rumsey Map Center Reference Assistants. Reference Assistant - Fall 2024 We...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/job-descriptions",
+        "url": "http://localhost:4000/job/job-description",
         "img": null
       },{
         "title": "Onboarding Checklist",
         "subtitle": "Things you'll do in your first week",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness As a Rumsey Center student worker, your main priority is to staff the reference desk, greet &amp; help visitors sign...",
+            "This page acts as a training checklist for your supervisor to cover your responsibilities and how the Rumsey Center operates during your first shift. As a Rumsey Center student worker,...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/onboarding-checklist",
+        "url": "http://localhost:4000/onboarding-checklist",
+        "img": null
+      },{
+        "title": "Opening the Center",
+        "subtitle": "What to do for opening shifts",
+        "excerpt":
+            "Opening the Center Ring the doorbell when you arrive, one of us will let you in. Prop the door open (kick the doorstop into place on top of the floor...",
+        "categories": null,
+        "date": null,
+        "tags": null,
+        "url": "http://localhost:4000/responsibilities/opening",
         "img": null
       },{
         "title": "Phones",
-        "subtitle": "How to answer them.",
+        "subtitle": "How to answer them",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Answering the Phone at the Rumsey Center Answer with, “Hi, thank you for calling the David Rumsey Map Center, this...",
+            "Answering the Phone at the Rumsey Center Answer with, “Hi, thank you for calling the David Rumsey Map Center, this is [name]. How can I help you?” While on the...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/phones",
+        "url": "http://localhost:4000/responsibilities/phones",
         "img": null
       },{
-        "title": "Student Projects",
-        "subtitle": "Accessing and managing projects",
+        "title": "Projects",
+        "subtitle": "Accessing and managing student projects",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness GitHub and Google Drive We manage our student projects either in GitHub or Google Drive. Sanborn Atlas Spatial Indexing Repository...",
+            "Page is currently being developed – please excuse the incompleteness Georeferencing Historical Maps Workshop GitHub and Google Drive We manage our student projects either in GitHub or Google Drive. Sanborn...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/projects",
+        "url": "http://localhost:4000/responsibilities/projects",
+        "img": null
+      },{
+        "title": "Staffing the reference desk",
+        "subtitle": "Helpful information when working with visitors",
+        "excerpt":
+            "As a Rumsey Center student worker, your main priority is to staff the reference desk, greet &amp; help visitors sign in, and give brief tours to introduce visitors to the...",
+        "categories": null,
+        "date": null,
+        "tags": null,
+        "url": "http://localhost:4000/responsibilities/reference-desk",
+        "img": null
+      },{
+        "title": "Sick time",
+        "subtitle": "How to call out sick",
+        "excerpt":
+            "Calling out Sick If you get sick and will be unable to make it to your shift, contact your supervisor and let them know ASAP. You will not be punished...",
+        "categories": null,
+        "date": null,
+        "tags": null,
+        "url": "http://localhost:4000/job/sick-time",
         "img": null
       },{
         "title": "Timecards",
-        "subtitle": "How to fill out your timecard.",
+        "subtitle": "How to fill out your timecard",
         "excerpt":
-            "Site is currently being developed – please excuse the incompleteness Pay Periods and Pay Dates There are two pay periods per month: one lasting from the first of the month...",
+            "Pay Periods and Pay Dates There are two pay periods per month: one lasting from the first of the month through the 16th, and another from the 17th to the...",
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/timecards",
+        "url": "http://localhost:4000/job/timecards",
         "img": null
       },{
         "title": "Tours",
@@ -161,7 +191,7 @@ var store = [{
         "categories": null,
         "date": null,
         "tags": null,
-        "url": "http://localhost:4000/handbook/tours",
+        "url": "http://localhost:4000/responsibilities/tours",
         "img": null
       },{
         "title": "First post!",
@@ -289,7 +319,7 @@ var store = [{
         "excerpt":
             "What’s Markdown? Markdown is a lightweight markup language that you can use to add formatting elements to plaintext text documents. Created by John Gruber in 2004, Markdown is now one...",
         "categories": ["tutorial"],
-        "date": "2024-07-16",
+        "date": "2024-10-10",
         "tags": ["starter","syntax","markdown"],
         "url": "http://localhost:4000/cheatsheets/01-markdown-cheat-sheet",
         "img": null
@@ -299,7 +329,7 @@ var store = [{
         "excerpt":
             "What’s kramdown? kramdown supercharges Markdown with some interesting features. kramdown is the default Jekyll Markdown processor. When creating your site with Jekyll, you can use the standard Markdown syntax plus...",
         "categories": ["tutorial"],
-        "date": "2024-07-16",
+        "date": "2024-10-10",
         "tags": ["starter","syntax","kramdown"],
         "url": "http://localhost:4000/cheatsheets/02-kramdown-cheat-sheet",
         "img": null
